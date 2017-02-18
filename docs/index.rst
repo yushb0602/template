@@ -4,6 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Read the Docs Template's documentation!
+edmond yu
 ==================================================
 
 Contents:
